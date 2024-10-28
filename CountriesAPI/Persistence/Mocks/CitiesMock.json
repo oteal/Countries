@@ -1,0 +1,88 @@
+[
+	{
+		"id": 1,
+		"name": "Lisbon",
+		"countryId": 1,
+		"population": 2986000
+	},
+	{
+		"id": 2,
+		"name": "Copenhagen",
+		"countryId": 2
+	},
+	{
+		"id": 3,
+		"name": "Kuala Lumpur",
+		"countryId": 3
+	},
+	{
+		"id": 4,
+		"name": "Bangkok",
+		"countryId": 4
+	},
+	{
+		"id": 5,
+		"name": "Jakarta",
+		"countryId": 5
+	},
+	{
+		"id": 6,
+		"name": "Praia",
+		"countryId": 6
+	},
+	{
+		"id": 7,
+		"name": "Hanoi",
+		"countryId": 7
+	},
+	{
+		"id": 8,
+		"name": "Paris",
+		"countryId": 8
+	},
+	{
+		"id": 9,
+		"name": "Amsterdam",
+		"countryId": 9
+	},
+	{
+		"id": 10,
+		"name": "Bern",
+		"countryId": 10
+	},
+	{
+		"id": 11,
+		"name": "Andorra la Vella",
+		"countryId": 11
+	},
+	{
+		"id": 12,
+		"name": "London",
+		"countryId": 12
+	},
+	{
+		"id": 13,
+		"name": "Buenos Aires",
+		"countryId": 13
+	},
+	{
+		"id": 14,
+		"name": "Cairo",
+		"countryId": 14
+	},
+	{
+		"id": 15,
+		"name": "Seoul",
+		"countryId": 15
+	},
+	{
+		"id": 16,
+		"name": "Athens",
+		"countryId": 16
+	},
+	{
+		"id": 17,
+		"name": "Helsinki",
+		"countryId": 17
+	}
+]
