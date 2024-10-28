@@ -1,70 +1,104 @@
 [
 	{
-		"id": 1,
-		"name": "Portugal"
+		"Id": 1,
+		"Name": "Portugal",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+		"BelongsToEuropeanUnion": true
 	},
 	{
-		"id": 2,
-		"name": "Denmark"
+		"Id": 2,
+		"Name": "Brazil",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 3,
-		"name": "Malaysia"
+		"Id": 3,
+		"Name": "Spain",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+		"BelongsToEuropeanUnion": true
 	},
 	{
-		"id": 4,
-		"name": "Thailand"
+		"Id": 4,
+		"Name": "France",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+		"BelongsToEuropeanUnion": true
 	},
 	{
-		"id": 5,
-		"name": "Indonesia"
+		"Id": 5,
+		"Name": "Germany",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+		"BelongsToEuropeanUnion": true
 	},
 	{
-		"id": 6,
-		"name": "Cape Verde"
+		"Id": 6,
+		"Name": "Italy",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+		"BelongsToEuropeanUnion": true
 	},
 	{
-		"id": 7,
-		"name": "Vietnam"
+		"Id": 7,
+		"Name": "United Kingdom",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 8,
-		"name": "France"
+		"Id": 8,
+		"Name": "United States",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 9,
-		"name": "Netherlands"
+		"Id": 9,
+		"Name": "Canada",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 10,
-		"name": "Switzerland"
+		"Id": 10,
+		"Name": "Australia",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 11,
-		"name": "Andorra"
+		"Id": 11,
+		"Name": "Japan",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 12,
-		"name": "United Kingdom"
+		"Id": 12,
+		"Name": "South Korea",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 13,
-		"name": "Argentina"
+		"Id": 13,
+		"Name": "India",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 14,
-		"name": "Egypt"
+		"Id": 14,
+		"Name": "China",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Flag_of_China.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 15,
-		"name": "South Korea"
+		"Id": 15,
+		"Name": "Mexico",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 16,
-		"name": "Greece"
+		"Id": 16,
+		"Name": "Argentina",
+		"Flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+		"BelongsToEuropeanUnion": false
 	},
 	{
-		"id": 17,
-		"name": "Finland"
+		"Id": 17,
+		"Name": "Russia",
+		"Flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+		"BelongsToEuropeanUnion": false
 	}
 ]

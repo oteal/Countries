@@ -6,6 +6,11 @@
 		"population": 2986000
 	},
 	{
+		"id": 18,
+		"name": "Porto",
+		"countryId": 1
+	},
+	{
 		"id": 2,
 		"name": "Copenhagen",
 		"countryId": 2
